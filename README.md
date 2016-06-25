@@ -5,6 +5,16 @@ This repository contains all the materials contributed by [WNYC Archives](http:/
 ## Usage
 Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
+## Git Instructions
+To pull the audio files you will need to install [git-lfs](https://git-lfs.github.com/)
+
+```
+brew install git-lfs
+# clone the repo as you would normally do
+# enter directory
+git lfs pull
+```
+
 ## The Collection Description
 [Patricia Marx Interviews](http://www.wnyc.org/shows/patricia-marx/) is a series of interviews done for [WNYC](http://www.wnyc.org/) and other stations between 1961 and 1969 that include talks with: Woody Allen, Dick Gregory, William Golding, General Omar Bradley, Arthur C. Clarke, David Halberstam, Bob Hope, George Balanchine and others. Established in the year 2000, the [New York Public Radio Archives](http://www.wnyc.org/series/archives-preservation/) are the station's physical link to its rich and storied past.
 
